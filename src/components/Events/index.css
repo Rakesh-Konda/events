@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.bg {
+  background-color: #323f4b;
+  height: 100vg;
+  width: 600px;
+}
+.pp {
+  color: #0967d2;
+  margin: 10px;
+}
+.mid {
+  display: flex;
+}
+.divv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

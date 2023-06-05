@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.log {
+  width: 60px;
+  height: 60px;
+  margin-left: 100px;
+}
+.hlo {
+  margin: 10px;
+}
+.im {
+  width: 150px;
+  height: 150px;
+  margin-left: 100px;
+}
+.iii {
+  width: 150px;
+  height: 150px;
+}
+.but {
+  color: white;
+  background-color: blue;
+}
+.pppp {
+  width: 350px;
+}
